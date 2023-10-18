@@ -21,4 +21,4 @@ assembly_summary.txt downloaded from https://ftp.ncbi.nlm.nih.gov/genomes/refseq
 
 `blastoutput_plant_human_lncRNA.zip`: blastn output for paired plant - human lncRNA; summarized in `table plant_lncrna_human_lncrna_1000overlap.tsv` 
 
-![Workflow](https://github.com/ligiamateiu/pair_plant_human_lncRNA/blob/main/Results/Figure1.png)
+![Workflow](https://github.com/ligiamateiu/pair_plant_human_lncRNA/blob/main/results/Figure1.png)
